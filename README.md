@@ -4,9 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Mohammad+Rafi+Amin🙂;A+Software+Engineer!👨‍💻;Nice+to+meet+you+👌+💯&center=true&size=30">
   </a>
 </h1>
+<hr>
 <br />
 
-I'm a self-taught passionate Full-Stack developer from Nigeria NG
+I'm a self-taught passionate Full-Stack developer from Afghanistan AF
 
 **About me**
 
@@ -16,7 +17,7 @@ I'm a self-taught passionate Full-Stack developer from Nigeria NG
 
 - ❤️ I love writing TypeScript, React, Ruby and building OPtimized Softwares on type-level
 
-- 💬 Ask me about anything [here](https://github.com/V-Blaze/V-Blaze/issues)
+- 💬 Ask me about anything [here](https://github.com/mrkamin/mrkamin/issues)
 <hr>
 <h2 align="center">Languages | Tools | Skills</h2>
 <br>
@@ -55,9 +56,7 @@ I'm a self-taught passionate Full-Stack developer from Nigeria NG
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkamin&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8" />
     </a>
   </div>
-  <br>
-  <!--To do deploy this on my heroku account myself-->
-  <img src="https://activity-graph.herokuapp.com/graph?username=mrkamin&theme=github-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ 
 </p>
 <hr>
 <div align=center>
