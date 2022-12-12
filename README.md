@@ -4,6 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋;I+am+Mohammad+Rafi+Amin🙂;A+Software+Engineer!👨‍💻;Nice+to+meet+you+👌+💯&center=true&size=30">
   </a>
 </h1>
+<br />
+
+I'm a self-taught passionate Full-Stack developer from Nigeria NG
+
+**About me**
+
+- 💼 Currently a Student at [Microverse](http://microverse.org/)
+
+- 📈 Built Web-Apps, Codes 8hrs + everyday, Collaborate with other developers around the world and more
+
+- ❤️ I love writing TypeScript, React, Ruby and building OPtimized Softwares on type-level
+
+- 💬 Ask me about anything [here](https://github.com/V-Blaze/V-Blaze/issues)
 <hr>
 <h2 align="center">Languages | Tools | Skills</h2>
 <br>
